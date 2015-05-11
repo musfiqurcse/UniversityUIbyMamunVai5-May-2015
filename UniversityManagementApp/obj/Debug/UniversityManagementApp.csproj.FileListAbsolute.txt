@@ -1,0 +1,12 @@
+D:\Training\SEIP\Batch 3 & 4\5th May 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+D:\Training\SEIP\Batch 3 & 4\5th May 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+D:\Training\SEIP\Batch 3 & 4\5th May 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+D:\Training\SEIP\Batch 3 & 4\5th May 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+D:\Training\SEIP\Batch 3 & 4\5th May 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.StudentEntryUI.resources
+D:\Training\SEIP\Batch 3 & 4\5th May 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+D:\Training\SEIP\Batch 3 & 4\5th May 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+D:\Training\SEIP\Batch 3 & 4\5th May 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+D:\Training\SEIP\Batch 3 & 4\5th May 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+C:\Users\Shibly\Desktop\Today's file\5th May 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+C:\Users\Shibly\Desktop\Today's file\5th May 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+C:\Users\Shibly\Desktop\Today's file\5th May 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
